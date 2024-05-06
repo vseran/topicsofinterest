@@ -1,0 +1,8 @@
+ASR:
+
+https://huggingface.co/blog/asr-diarization
+
+Tracking:
+
+https://diffmot.github.io/
+https://github.com/Kroery/DiffMOT
