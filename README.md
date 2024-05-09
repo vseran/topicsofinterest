@@ -27,3 +27,7 @@ https://radiancefields.com/understanding-nerf-on-a-small-scale
 Volumetric
 
 https://www.nokia.com/blog/a-metaverse-for-everyone-through-collaboration-and-interoperability/
+
+Distributed Inference
+
+https://github.com/adalkiran/distributed-inference
