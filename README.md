@@ -22,3 +22,8 @@ https://www.linkedin.com/company/noorcon-inc-/?lipi=urn%3Ali%3Apage%3Ad_flagship
 
 nerf
 https://radiancefields.com/understanding-nerf-on-a-small-scale
+
+
+Volumetric
+
+https://www.nokia.com/blog/a-metaverse-for-everyone-through-collaboration-and-interoperability/
