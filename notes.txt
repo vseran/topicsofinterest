@@ -6,3 +6,8 @@ Tracking:
 
 https://diffmot.github.io/
 https://github.com/Kroery/DiffMOT
+
+
+Distributed Inference:
+
+https://github.com/bigscience-workshop/petals
