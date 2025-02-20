@@ -1,3 +1,7 @@
+Humandgeneration
+https://www.geeksforgeeks.org/animate-anyone-2-overview/
+
+
 CLIP
 https://github.com/jacobmarks/awesome-clip-papers?tab=readme-ov-file
 
